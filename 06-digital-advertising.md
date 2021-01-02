@@ -37,9 +37,13 @@ Advertising online can be extremely beneficial for your business, but if it's no
 also be a huge waste of money. In order to maximize the benefits of digital advertising, business
 owners need to first spend a significant amount of effort learning how digital advertising works. In
 addition to that, maintaining digital ads that lead to tangible business growth requires a large,
-ongoing time commitment. For that reason, we recommend that small businesses limit their investment
-in digital advertising and instead spend the effort and money on more traditional forms of marketing
-or on growing the core part of their business.
+ongoing time commitment. An alternative could be to pay a digital advertising agency to manage this
+on your behalf, but digital advertising agencies generally have a minimum monthly cost which can be
+over $1,000.
+
+For those reasons, we recommend that small businesses limit their investment in digital advertising
+and instead spend the effort and money on more traditional forms of marketing or on growing the core
+part of their business.
 
 
 ### Facebook Ads
