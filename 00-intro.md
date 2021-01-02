@@ -14,4 +14,3 @@ alternatives. Any prices mentioned in this guide are in US dollars.
 1. [Google My Business](#google-my-business)
 1. [Digital Advertising](#digital-advertising)
 1. [Social Media Platforms](#social-media-platforms)
-1. [Managing Finances](#managing-finances)

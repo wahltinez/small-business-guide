@@ -1,3 +1,10 @@
+<br/>
+<br/>
+<br/>
+<span style="font-size: small">Made with ❤︎ by the Wahltinez Foundation</span>
+</br>
+</br>
+
 [0]: https://wahltinez.org
 [1]: https://google.com/chrome/
 [2]: https://lastpass.com
