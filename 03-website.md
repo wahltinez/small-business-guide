@@ -31,11 +31,11 @@ Rather, consider maintaining a [social media](#social-media) page or a
 ### Creating a Free Website
 
 There are many tools and companies that can help you create a website for free. In most cases, they
-have a "free" plan and a "premium" plan you can upgrade to. The free website builder we recommend
-is [Google Sites][1]. The main reason is that they don't have a "premium" plan, so the free version
-has all the features you need and you can't be tricked into paying for more features that you don't
-need. The only thing that you might be asked to pay for is a custom domain name, which is not
-necessary to publish your website.
+have a "free" plan and a "premium" plan that you can upgrade to. The free website builder we
+recommend is [Google Sites][1]. The main reason is that they don't have a "premium" plan, so the
+free version has all the features you need and you can't be tricked into paying for more features
+that you don't need. The only thing that you might be asked to pay for is a custom domain name,
+which is not necessary to publish your website.
 
 To create a free website using Google Sites, just go to <https://sites.google.com> from a desktop
 computer, log in using your Google account, and follow the instructions on the website. We recommend
@@ -94,7 +94,7 @@ custom domain email with gmail" and you'll find many step-by-step guides.
 
 Search Engine optimization (SEO) is the process of improving the ranking and appearance of your web
 presence to the eyes of search engines, namely Google. Google's Search engine uses proprietary
-algorithms to determine which results to display first in the list of search results. Generally
+algorithms to determine which websites to display first in the list of search results. Generally
 speaking, the priority is relevance, compatibility and speed.
 
 There are many (multi-million) businesses that focus on SEO. For a small business, we don't

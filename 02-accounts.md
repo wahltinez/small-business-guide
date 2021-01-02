@@ -27,9 +27,9 @@ In some cases, it can be extremely difficult to recover an account if the passwo
 same time, passwords should be difficult to guess, include a mix of numbers, letters and special
 characters, and should not be reused for different accounts.
 
-There are a couple of ways to handle this problem. First, when the option is available, it can be
-avoided altogether if you choose the "Sign in with Google" or "Sign in with Facebook" options. That
-way, you can effectively create an online account with one less password to remember.
+There are a couple of ways to handle this problem. First, when the option is available, the issue
+can be avoided altogether if you choose the "Sign in with Google" or "Sign in with Facebook"
+options. That way, you can effectively create an online account with one less password to remember.
 
 Otherwise, we highly recommend using a trusted password manager. They are considered secure and make
 managing complex passwords much easier. Most web browsers have a built-in password manager. If you
