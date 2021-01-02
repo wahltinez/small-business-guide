@@ -1,6 +1,6 @@
 ## Creating a Website <a name="creating-a-website"></a>
 
-One of the main places to tell customers about your business online is via a website. Creating a
+One of the main places to tell customers about your business online is with a website. Creating a
 website is **very easy and free**, but it's very important to keep it simple and up to date. There
 are two components in the management of a business website:
 
@@ -32,13 +32,13 @@ Rather, consider maintaining a [social media](#social-media) page or a
 
 There are many tools and companies that can help you create a website for free. In most cases, they
 have a "free" plan and a "premium" plan you can upgrade to. The free website builder we recommend
-is [Google Sites][1]. The main reason is that they don't have a "premium"
-plan, so the free version has all the features you need and you can't be tricked into paying for
-more features you don't need. The only thing that you might be asked to pay for is a custom
-domain name, which is not necessary to publish your website.
+is [Google Sites][1]. The main reason is that they don't have a "premium" plan, so the free version
+has all the features you need and you can't be tricked into paying for more features that you don't
+need. The only thing that you might be asked to pay for is a custom domain name, which is not
+necessary to publish your website.
 
 To create a free website using Google Sites, just go to <https://sites.google.com> from a desktop
-computer, log in using your Google account, and follow the instructions on the screen. We recommend
+computer, log in using your Google account, and follow the instructions on the website. We recommend
 starting from one of the templates from the template gallery at the top of the page.
 
 Once you are done building your website, **it's very important to test it**. Make sure it works at

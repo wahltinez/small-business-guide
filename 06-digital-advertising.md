@@ -33,17 +33,19 @@ the context of digital advertising is called a *conversion*.
 
 ### Risks of Digital Advertising
 
-Advertising online can be extremely beneficial for your business, but if it's not done right it can
+Advertising online can be extremely beneficial to your business, but if it's not done right it can
 also be a huge waste of money. In order to maximize the benefits of digital advertising, business
-owners need to first spend a significant amount of effort learning how digital advertising works. In
-addition to that, maintaining digital ads that lead to tangible business growth requires a large,
-ongoing time commitment. An alternative could be to pay a digital advertising agency to manage this
-on your behalf, but digital advertising agencies generally have a minimum monthly cost which can be
-over $1,000.
+owners need to first spend a significant amount of effort learning about digital advertising
+strategies. In addition to that, maintaining digital ads that lead to tangible business results
+requires a large, ongoing time commitment. An alternative could be to pay a digital advertising
+agency to manage this on your behalf, but digital advertising agencies generally have a minimum
+monthly cost which can be over $1,000.
 
 For those reasons, we recommend that small businesses limit their investment in digital advertising
 and instead spend the effort and money on more traditional forms of marketing or on growing the core
-part of their business.
+part of their business. Once the business has grown organically and can dedicate a significant
+budget to digital advertising, adopting digital advertising as part of your business will be much
+more beneficial.
 
 
 ### Facebook Ads
@@ -58,6 +60,7 @@ to very specific audiences.
 
 [Google AdWords][16] is arguably the longest-lived, most successful digital advertising platform
 in existence. Since Google AdWords is mainly used to deliver advertising to users of Google Search,
-what the users are looking for is used as the most important. Even though it is an extremely
+what the users are looking for is used as the most important signal. Even though it is an extremely
 powerful tool, compared to Facebook Ads, it can be significantly more difficult to maximize the
-benefit of using Google AdWords.
+benefit of using Google AdWords – partly due to its complexity but also because developing
+successful advertising campaigns requires knowledge and practice.

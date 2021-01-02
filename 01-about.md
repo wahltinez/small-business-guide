@@ -1,13 +1,13 @@
 ## About This Guide <a name="about-this-guide"></a>
 
-We (Sarah and Oscar) are avid travelers and love to support local businesses around the world. We
-enjoy experiencing the different cultures and learning all about them, so finding small, authentic,
-local businesses is one of our favorite activities anywhere we go.
+We are avid travelers and love to support local businesses around the world. We enjoy experiencing
+the different cultures and learning all about them, so finding small, authentic, local businesses is
+one of our favorite activities anywhere we go.
 
 Small businesses, especially those based outside of the USA, sometimes are not very *tech-savvy*. We
 get it, running a small business is a very difficult and demanding task. Small business owners have
-enough things to worry about! But in order to grow as a business it is imperative to develop a good
-online presence.
+enough things to worry about! But in order to grow as a business it is extremely important to
+develop a good online presence.
 
 For physical stores, having a good storefront is very important to encourage potential customers to
 walk in. Similarly, businesses need a good online presence to reach out to more potential customers.
@@ -23,6 +23,7 @@ the small, authentic, local businesses we decided to write this guide to address
 common problems we find in the online presence for these type of businesses.
 
 You won't find advanced business or marketing strategies in this guide, and if your business already
-appears in Google Maps, or you have a working website, then you probably won't learn much from this
-guide. You might still want to check it out to make sure you maximize the benefits of a strong
-online presence for your business.
+appears in Google Maps, or you have a working website and are tech-savvy, then you probably won't
+learn much since most of the things covered by this guide are common sense. Although you might still
+want to check it out to make sure you maximize the benefits of a strong online presence for your
+business.

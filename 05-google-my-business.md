@@ -23,8 +23,7 @@ highly ranked in relevant search queries.
 Google Maps is a very important tool for potential customers to discover your business. While your
 business may already appear on Google Maps, it's very important to link it to your Google My
 Business profile so you can manage the listing. This includes editing the description and category
-for your business, selecting which photos appear in Google Maps, as well as replying to user
-reviews.
+of your business, selecting which photos appear in Google Maps, as well as replying to user reviews.
 
 
 ### Website

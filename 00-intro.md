@@ -1,9 +1,9 @@
 # Small Business Guide
 
-This guide is brought to you by the [Wahltinez Foundation][0]. It is a resource
-for small business owners to efficiently bring their business to the digital era. This guide is free
-of charge and everything suggested by the guide can be done for free — although sometimes we also
-mention paid alternatives. Any prices mentioned in this guide are in US dollars.
+This guide is brought to you by the [Wahltinez Foundation][0]. It is a resource for small business
+owners to efficiently bring their business to the digital era. This guide is free of charge and
+everything suggested by the guide can be done for free — although sometimes we also mention paid
+alternatives. Any prices mentioned in this guide are in US dollars.
 
 ## Table of Contents
 
@@ -13,5 +13,5 @@ mention paid alternatives. Any prices mentioned in this guide are in US dollars.
 1. [Electronic Payments](#electronic-payments)
 1. [Google My Business](#google-my-business)
 1. [Digital Advertising](#digital-advertising)
-1. [Social Media](#social-media)
+1. [Social Media Platforms](#social-media-platforms)
 1. [Managing Finances](#managing-finances)
