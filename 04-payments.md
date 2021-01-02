@@ -1,12 +1,15 @@
-## Electronic Payments and E-Commerce <a name="electronic-payments-and-e-commerce"></a>
+## Electronic Payments <a name="electronic-payments"></a>
+
+Electronic payments refer to any form of payment other than cash. This typically includes credit
+card payments, but can also refer to cryptocurrency.
+
+
+### E-Commerce
 
 E-Commerce is a term that refers to selling goods and services online. Even if your business only
 deals with physical goods or services at the store's location, you can also take advantage of
-e-commerce by offering pre-payment of those goods or services; for example, a restaurant may offer
-a pre-paid special dinner package.
-
-On the other hand, electronic payments refer to any form of payment other than cash. This typically
-includes credit card payments, but can also refer to cryptocurrency.
+e-commerce by offering pre-payment of those goods or services. For example, a restaurant may offer
+a pre-paid special dinner package. Other businesses may offer redeemable vouchers.
 
 
 ### Processing Electronic Payments
@@ -28,9 +31,9 @@ process online payments. There are no free solutions that will work for this, mo
 will charge a monthly fee in addition to credit card fees. Normally, maintenance fees should be
 under $30 per month and credit card fees range from 3-4% + 30-60¢ per transaction.
 
-We recommend using [Square Online](https://squareup.com/us/en/online-store), which does not charge a
+We recommend using [Square Online][11], which does not charge a
 monthly fee for their base plan and includes tool to help you build your website. A very popular
-alternative is [Shopify](https://www.shopify.com/), but that can be more expensive for small
+alternative is [Shopify][12], but that can be more expensive for small
 businesses.
 
 

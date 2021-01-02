@@ -1,4 +1,4 @@
-## Online Accounts and Security <a name="online-accounts-and-security"></a>
+## Online Accounts <a name="online-accounts"></a>
 
 Almost all of the services mentioned in this guide will require for you to create an account. It is
 very important to keep track of which accounts have been created and where.

@@ -1,8 +1,8 @@
 ## Google My Business <a name="google-my-business"></a>
 
-Google is crucial in how potential customers can find our about your business online. Particularly,
+Google is crucial in how potential customers can find out about your business online. Particularly,
 Google Search and Google Maps are two products widely used that can be leveraged to make your
-business easier to find online. [Google My Business][11] is a collection of tools provided by Google
+business easier to find online. [Google My Business][13] is a collection of tools provided by Google
 to help business owners manage a number of relevant Google services.
 
 When you first sign up for Google My Business, Google may require you to enter the mailing address
@@ -41,4 +41,4 @@ If you reply to user reviews, especially if they are negative, be sure to always
 civil. While you can flag a user review as inappropriate for violating Google's policies, Google
 will not remove any negative reviews if you and the customer disagree about facts which Google has
 no way of discerning who is right. For more information about the process for requesting the removal
-of user reviews, see the [Google My Business help page][12].
+of user reviews, see the [Google My Business help page][14].
