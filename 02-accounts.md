@@ -34,7 +34,8 @@ options. That way, you can effectively create an online account with one less pa
 Otherwise, we highly recommend using a trusted password manager. They are considered secure and make
 managing complex passwords much easier. Most web browsers have a built-in password manager. If you
 use [Google Chrome][1], the passwords will synchronize with your Google account. For a
-cross-platform solution, we recommend [LastPass][2] since it can be used on any type of device.
+cross-platform solution, we recommend [LastPass][2] since it can be used on any type of device and
+is also free for personal use.
 
 
 ### Two-Factor Authentication (2FA)
