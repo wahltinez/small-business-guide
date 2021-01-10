@@ -27,6 +27,9 @@ idea: having an outdated website can be worse for your business than having no w
 Rather, consider maintaining a [social media](#social-media) page or a
 [Google My Business](#google-my-business) listing instead.
 
+Note: If you would like to sell products and services directly from your website, you should
+consider the options mentioned in the [Electronic Payments](#electronic-payments) section.
+
 
 ### Creating Website for Free
 
