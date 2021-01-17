@@ -6,6 +6,9 @@ social media requires a significant ongoing effort to be an effective tool. On t
 generally speaking, the only cost of investing in a good social media presence is your time since
 the most popular platforms are free to use.
 
+You should monitor the social media channels that your business is in regularly. If you don't plan
+on maintaining your social media presence at least weekly, it may be better to reduce your focus to
+other areas of your digital presence.
 
 ### Understanding the Role of Social Media
 
@@ -30,3 +33,16 @@ might be most familiar with.
 Further, each social media platform has its own conventions and rules, and you should not treat them
 all equally. For example, in some platforms, businesses can be expected to publish new content at
 most weekly but in others daily new content would be considered acceptable.
+
+
+### Automating the Work
+
+Even though you should monitor the social media channels that your business is in regularly, there
+are some tools that will help you save some time. There is no substitute to spending the time to
+read what customers are saying about your business online — a lot of that will be valuable feedback
+that can help your business!
+
+On the other hand, you can save some time by scheduling social media posts in advance. Social media
+users tend to engage more with businesses that post content at regular intervals. We recommend using
+[Buffer][18] or [Later][19], which will let you schedule social media posts in multiple platforms
+for free.

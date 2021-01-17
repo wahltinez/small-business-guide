@@ -69,7 +69,9 @@ free website builders. Some well-known products which have a free base plan are:
 If you don't want to create your own website and want to pay someone to do it, there are many
 digital agencies that can create a website for you. This is a relatively expensive solution, but
 will have the most *professional* results. You should never pay more than $1,000 for a custom
-website.
+website, and keep in mind that many agencies will charge monthly maintenance costs even if the
+website is not updated with new content. Some agencies retain ownership of the website, so when you
+stop paying, the website is taken down — make sure that you review the terms of the contract.
 
 
 ### Purchasing a Custom Domain

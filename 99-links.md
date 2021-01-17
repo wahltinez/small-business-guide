@@ -20,5 +20,14 @@
 [12]: https://www.shopify.com/
 [13]: https://business.google.com/
 [14]: https://support.google.com/business/answer/4596773
-[15]: https://www.facebook.com/business/ads
-[16]: https://ads.google.com/
+[15]: https://mailchimp.com/
+[16]: https://www.facebook.com/business/ads
+[17]: https://ads.google.com/
+[18]: https://buffer.com/
+[19]: https://later.com/
+[20]: https://analytics.google.com/
+[21]: https://support.google.com/sites/answer/97459
+[22]: https://clicky.com/
+[23]: https://bit.ly/
+[24]: https://analytics.facebook.com/
+[25]: https://www.facebook.com/help/794890670645072
