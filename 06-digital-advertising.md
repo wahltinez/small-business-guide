@@ -55,9 +55,9 @@ more beneficial.
 
 One of the simplest forms of digital advertising are email lists. You should encourage visitors to
 your website to sign up for an email list or newsletter, so they can stay up to date with your
-business. If your type of business tends to have repeat customers (hint: most business do!) then you
-should make it very easy for customers to sign up for the email list or newsletter as part of the
-purchase.
+business. If your type of business tends to have repeat customers (hint: most businesses do!) then
+you should make it very easy for customers to sign up for the email list or newsletter as part of
+the purchase.
 
 Make sure that you don't sign up customers for your email list or newsletter without their consent.
 First, it can be outright illegal in some jurisdictions. Second, if enough recipients mark an email
