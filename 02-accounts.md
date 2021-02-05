@@ -21,6 +21,16 @@ you can also add the location of your business to find an available account name
 different words and make it easier to read and spell.
 
 
+### Centralization of Efforts
+
+Throughout this guide, there are a number of suggestions for specific service providers. We
+recommend that you try to create new accounts in as few of them as possible. For example, even if
+you can get a slightly cheaper custom email provider, it may be worthwhile getting it through your
+existing domain registrar so you can more efficiently manage your online presence. There are several
+all-in-one solution providers for e-commerce business, we personally recommend [Shopify][12] as a
+great, premium solution.
+
+
 ### Managing Passwords
 
 In some cases, it can be extremely difficult to recover an account if the password is lost. At the

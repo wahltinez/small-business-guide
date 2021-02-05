@@ -40,7 +40,7 @@ provider to process online payments.
 For US, UK and AU businesses we recommend using [Square Online][11], which does not charge a monthly
 fee for their base plan and includes a tool to help you build your website. A very popular
 alternative is [Shopify][12], but that can be more expensive for small businesses. However, Shopify
-acts as an intermediary that integrates with many other payment processing providers, including
+also acts as an intermediary that integrates with many other payment processing providers, including
 PayPal which works in nearly all countries.
 
 

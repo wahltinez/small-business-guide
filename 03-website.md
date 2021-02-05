@@ -56,7 +56,7 @@ make sure your website looks good in different devices, but they can also give y
 how the design and the content.
 
 
-### Alternatives to Google Sites
+### Free alternatives to Google Sites
 
 We recommend Google Sites because it's simple and highly customizable. However, there are many more
 free website builders. Some well-known products which have a free base plan are:
@@ -65,6 +65,13 @@ free website builders. Some well-known products which have a free base plan are:
 * [Weebly](https://weebly.com)
 * [SquareSpace](https://squarespace.com)
 * [Strikingly](https://strikingly.com)
+
+
+### Paid alternatives to Google Sites
+
+If you plan on processing online payments, [Shopify][12] can be a good all-in-one solution. It has a
+monthly maintenance fee, but it can be used to create a website, purchase a custom domain, manage
+social media listings, and process online payments.
 
 If you don't want to create your own website and want to pay someone to do it, there are many
 digital agencies that can create a website for you. This is a relatively expensive solution, but
@@ -111,7 +118,12 @@ presence to the eyes of search engines, namely Google. Google's Search engine us
 algorithms to determine which websites to display first in the list of search results. Generally
 speaking, the priorities are relevance, compatibility and speed.
 
-There are many (multi-million) businesses that focus on SEO. For a small business, we don't
+You should also think about what potential customers could be searching for. For example, a customer
+might search for "best Chinese restaurants in Seattle", or even something very specific like "best
+Hawaiian pizza near me". Including those words in your page will make it more likely for your
+website to rank higher in the search results.
+
+There are many (multi-million dollar) businesses that focus on SEO. For a small business, we don't
 recommend paying for any SEO-related services. We also don't recommend trying to worry too much
 about SEO, since a lot of SEO-focused business essentially play a game of cat and mouse trying to
 fool Google's algorithm which changes often.
