@@ -5,7 +5,7 @@ website is **very easy and free**, but it's very important to keep it simple and
 are two components in the management of a business website:
 
 1. The web page content that customers see
-1. The web address, also known as the domain name
+1. The web address, also known as the domain name or URL
 
 The web page content is the most important thing, and can be done completely free of charge.
 Normally this will result in a web address like `https://sites.google.com/view/mybusinessname` or
@@ -31,7 +31,7 @@ Note: If you would like to sell products and services directly from your website
 consider the options mentioned in the [Electronic Payments](#electronic-payments) section.
 
 
-### Creating Website for Free
+### Creating a Website for Free
 
 There are many tools and companies that can help you create a website for free. In most cases, they
 have a "free" plan and a "premium" plan that you can upgrade to. The free website builder we
@@ -53,7 +53,7 @@ least for the following combination of devices:
 
 You should ask your friends and family for help testing your website. Not only can they help you
 make sure your website looks good in different devices, but they can also give you feedback about
-how the design and the content.
+the design and the content.
 
 
 ### Free alternatives to Google Sites
@@ -69,13 +69,13 @@ free website builders. Some well-known products which have a free base plan are:
 
 ### Paid alternatives to Google Sites
 
-If you plan on processing online payments, [Shopify][12] can be a good all-in-one solution. It has a
+If you want to process online payments, [Shopify][12] can be a good all-in-one solution. It has a
 monthly maintenance fee, but it can be used to create a website, purchase a custom domain, manage
 social media listings, and process online payments.
 
 If you don't want to create your own website and want to pay someone to do it, there are many
 digital agencies that can create a website for you. This is a relatively expensive solution, but
-will have the most *professional* results. You should never pay more than $1,000 for a custom
+will have the most *professional* results. You should not pay more than $1,000 for a custom
 website, and keep in mind that many agencies will charge monthly maintenance costs even if the
 website is not updated with new content. Some agencies retain ownership of the website, so when you
 stop paying, the website is taken down — make sure that you review the terms of the contract.
