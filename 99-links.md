@@ -1,7 +1,7 @@
 <br/>
 <br/>
 <br/>
-<span style="font-size: small">Made with ❤︎ by the Wahltinez Foundation</span>
+<span style="font-size: small">Made with ❤︎ by the Wahltinez Foundation and FinMango</span>
 </br>
 </br>
 
@@ -31,3 +31,4 @@
 [23]: https://bit.ly/
 [24]: https://analytics.facebook.com/
 [25]: https://www.facebook.com/help/794890670645072
+[26]: https://finmango.org
